@@ -14,7 +14,7 @@ pipeline
 		{
 			steps
 			{
-				git url:'git@github.com:BKarthik03/MiniKube_Demo.git', branch:'main'
+				git url:'git@github.com:BKarthik03/Maven_Kube_Demo.git', branch:'main'
 			}
 		}
 
