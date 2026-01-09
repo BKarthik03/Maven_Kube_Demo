@@ -3,8 +3,8 @@ pipeline
 	agent any
 	environment
 	{
-		IMAGE_NAME="karthirs/mini_demo"
-		APP_NAME="mini_demo"
+		IMAGE_NAME="karthirs/miniDemo"
+		APP_NAME="miniDemo"
 		CONTAINER_NAME="my-maven-container"
 	}
 
