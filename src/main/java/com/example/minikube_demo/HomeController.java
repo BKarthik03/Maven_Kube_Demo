@@ -8,6 +8,6 @@ public class HomeController
 	@GetMapping("/")
 	public String greet()
 	{
-		return "Hello Springs!!!";
+		return "Hello Spring Devs!!!";
 	}
 }
